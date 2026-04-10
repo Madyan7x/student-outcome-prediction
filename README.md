@@ -15,6 +15,17 @@ Built with Python, Scikit-learn, and deployed as an interactive **Streamlit web 
 
 ---
 
+## 📸 Power BI Dashboard
+
+An interactive Power BI dashboard built on the cleaned student data, visualizing:
+- Student outcome distribution (Pass / Fail)
+- Performance trends by demographics and region
+- Assessment scores and activity patterns
+
+📊 [View Dashboard File](Student.pbix)
+
+---
+
 ## 🗂️ Dataset
 
 This project uses the **OULAD** dataset — a real-world open education dataset from the UK Open University.
@@ -123,6 +134,7 @@ student-outcome-prediction/
 │
 ├── student.py                  # ML pipeline (cleaning, training, saving model)
 ├── app.py                      # Streamlit web application
+├── Student.pbix                # Power BI dashboard
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
 │
@@ -147,4 +159,5 @@ student-outcome-prediction/
 **Madyan Alammari**  
 Computer Science — King Abdulaziz University  
 📧 Madyan3172001@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/madyan-alammari-73852a170)
+🔗 [LinkedIn](https://www.linkedin.com/in/madyan-alammari-73852a170)  
+🐙 [GitHub](https://github.com/MadyanAlammari)
