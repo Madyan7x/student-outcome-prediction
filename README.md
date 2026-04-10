@@ -1,4 +1,4 @@
-# 🎓 Student Outcome Prediction — ML Classification Model
+# 🎓 Student Outcome Prediction — ML Classification Model & Power BI Dashboard
 
 A machine learning project that predicts whether a university student will **Pass** or **Fail** based on behavioral, demographic, and assessment data from the **Open University Learning Analytics Dataset (OULAD)**.
 
